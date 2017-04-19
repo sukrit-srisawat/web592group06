@@ -10,7 +10,7 @@ echo "<div class='panel-body'>";
 if(file_exists($file)){
 include($file);
 }else{
-echo "ไม่พบไฟล์ $file ";
+echo "ไม่พบไฟล์ครับ $file ";
 }
 echo "</div>";
 echo "</div>";
