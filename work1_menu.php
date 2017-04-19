@@ -5,7 +5,7 @@ global $user;
 global $appid,$page,$title;
 $menufile="gs://$appid/menu.txt";
 if(!file_exists($menufile)){
-file_put_contents($menufile,"home=หน้ำหลัก=home");
+file_put_contents($menufile,"home=HOME=home");
 }
 $data = file($menufile);
 $title = $page;
