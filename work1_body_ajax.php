@@ -1,5 +1,5 @@
 <ol>
-<li>ค้นหาข้อมูลจังหวัด
+<li>ค้นหาข้อมูลของจังหวัด
 <form>
  <div class="form-group">
  <label for="prov">ชื่อจังหวัด</label>
