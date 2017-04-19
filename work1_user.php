@@ -1,5 +1,5 @@
 <?php
- // สว่ นตงั้คา่ เรยี กใชง้าน UserService ของ Google
+ 
  use google\appengine\api\users\User;
  use google\appengine\api\users\UserService;
  global $user,$userdata,$appid;
